@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{550E7259-8D0A-43C9-B4F1-106BBBB16987}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Test_UI</RootNamespace>
+    <AssemblyName>Test_UI</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="formAdminHome1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formAdminHome1.Designer.cs">
+      <DependentUpon>formAdminHome1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formHiring.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formHiring.Designer.cs">
+      <DependentUpon>formHiring.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formLogin1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formLogin1.Designer.cs">
+      <DependentUpon>formLogin1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formManagementPhotographer1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formManagementPhotographer1.Designer.cs">
+      <DependentUpon>formManagementPhotographer1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formManageUsers1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formManageUsers1.Designer.cs">
+      <DependentUpon>formManageUsers1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formPhotgraphersRequests.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formPhotgraphersRequests.Designer.cs">
+      <DependentUpon>formPhotgraphersRequests.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formPhotographerHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formPhotographerHome.Designer.cs">
+      <DependentUpon>formPhotographerHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formRequests.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formRequests.Designer.cs">
+      <DependentUpon>formRequests.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formSearchPortfolio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formSearchPortfolio.Designer.cs">
+      <DependentUpon>formSearchPortfolio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formSignUp1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formSignUp1.Designer.cs">
+      <DependentUpon>formSignUp1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formUserHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formUserHome.Designer.cs">
+      <DependentUpon>formUserHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formUserRequests.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formUserRequests.Designer.cs">
+      <DependentUpon>formUserRequests.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fromForgotPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fromForgotPassword.Designer.cs">
+      <DependentUpon>fromForgotPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EntityPackages\EntityPackages.csproj">
+      <Project>{8b2a2c4f-ad65-4ccf-9c0e-1f337c79bce5}</Project>
+      <Name>EntityPackages</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RepositoryPackages\RepositoryPackages.csproj">
+      <Project>{456290bf-5dca-4d22-967e-887bb4fd0ac5}</Project>
+      <Name>RepositoryPackages</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="TestDB.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestDB_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>TestDB.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="formAdminHome1.resx">
+      <DependentUpon>formAdminHome1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formHiring.resx">
+      <DependentUpon>formHiring.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formLogin1.resx">
+      <DependentUpon>formLogin1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formManagementPhotographer1.resx">
+      <DependentUpon>formManagementPhotographer1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formManageUsers1.resx">
+      <DependentUpon>formManageUsers1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formPhotgraphersRequests.resx">
+      <DependentUpon>formPhotgraphersRequests.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formPhotographerHome.resx">
+      <DependentUpon>formPhotographerHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formRequests.resx">
+      <DependentUpon>formRequests.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formSearchPortfolio.resx">
+      <DependentUpon>formSearchPortfolio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formSignUp1.resx">
+      <DependentUpon>formSignUp1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formUserHome.resx">
+      <DependentUpon>formUserHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formUserRequests.resx">
+      <DependentUpon>formUserRequests.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fromForgotPassword.resx">
+      <DependentUpon>fromForgotPassword.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

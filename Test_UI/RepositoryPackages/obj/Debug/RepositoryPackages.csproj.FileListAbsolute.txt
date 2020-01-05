@@ -1,0 +1,41 @@
+D:\Programs\Test_UI\RepositoryPackages\bin\Debug\RepositoryPackages.exe
+D:\Programs\Test_UI\RepositoryPackages\bin\Debug\RepositoryPackages.pdb
+D:\Programs\Test_UI\RepositoryPackages\bin\Debug\EntityPackages.exe
+D:\Programs\Test_UI\RepositoryPackages\bin\Debug\EntityPackages.pdb
+D:\Programs\Test_UI\RepositoryPackages\obj\Debug\RepositoryPackages.csprojAssemblyReference.cache
+D:\Programs\Test_UI\RepositoryPackages\obj\Debug\RepositoryPackages.csproj.CoreCompileInputs.cache
+D:\Programs\Test_UI\RepositoryPackages\obj\Debug\RepositoryPackages.csproj.CopyComplete
+D:\Programs\Test_UI\RepositoryPackages\obj\Debug\RepositoryPackages.exe
+D:\Programs\Test_UI\RepositoryPackages\obj\Debug\RepositoryPackages.pdb
+D:\WorkPlace\Programs\Test_UI\RepositoryPackages\bin\Debug\RepositoryPackages.exe
+D:\WorkPlace\Programs\Test_UI\RepositoryPackages\bin\Debug\RepositoryPackages.pdb
+D:\WorkPlace\Programs\Test_UI\RepositoryPackages\bin\Debug\EntityPackages.exe
+D:\WorkPlace\Programs\Test_UI\RepositoryPackages\bin\Debug\EntityPackages.pdb
+D:\WorkPlace\Programs\Test_UI\RepositoryPackages\obj\Debug\RepositoryPackages.csprojAssemblyReference.cache
+D:\WorkPlace\Programs\Test_UI\RepositoryPackages\obj\Debug\RepositoryPackages.csproj.CopyComplete
+D:\WorkPlace\Programs\Test_UI\RepositoryPackages\obj\Debug\RepositoryPackages.exe
+D:\WorkPlace\Programs\Test_UI\RepositoryPackages\obj\Debug\RepositoryPackages.pdb
+D:\StorePlace\Test_UI\RepositoryPackages\bin\Debug\RepositoryPackages.exe
+D:\StorePlace\Test_UI\RepositoryPackages\bin\Debug\RepositoryPackages.pdb
+D:\StorePlace\Test_UI\RepositoryPackages\bin\Debug\EntityPackages.exe
+D:\StorePlace\Test_UI\RepositoryPackages\bin\Debug\EntityPackages.pdb
+D:\StorePlace\Test_UI\RepositoryPackages\obj\Debug\RepositoryPackages.csprojAssemblyReference.cache
+D:\StorePlace\Test_UI\RepositoryPackages\obj\Debug\RepositoryPackages.csproj.CopyComplete
+D:\StorePlace\Test_UI\RepositoryPackages\obj\Debug\RepositoryPackages.exe
+D:\StorePlace\Test_UI\RepositoryPackages\obj\Debug\RepositoryPackages.pdb
+D:\C# Project\PixBook\Test_UI-20191223T141702Z-001\Test_UI\RepositoryPackages\bin\Debug\RepositoryPackages.exe
+D:\C# Project\PixBook\Test_UI-20191223T141702Z-001\Test_UI\RepositoryPackages\bin\Debug\RepositoryPackages.pdb
+D:\C# Project\PixBook\Test_UI-20191223T141702Z-001\Test_UI\RepositoryPackages\bin\Debug\EntityPackages.exe
+D:\C# Project\PixBook\Test_UI-20191223T141702Z-001\Test_UI\RepositoryPackages\bin\Debug\EntityPackages.pdb
+D:\C# Project\PixBook\Test_UI-20191223T141702Z-001\Test_UI\RepositoryPackages\obj\Debug\RepositoryPackages.csprojAssemblyReference.cache
+D:\C# Project\PixBook\Test_UI-20191223T141702Z-001\Test_UI\RepositoryPackages\obj\Debug\RepositoryPackages.csproj.CopyComplete
+D:\C# Project\PixBook\Test_UI-20191223T141702Z-001\Test_UI\RepositoryPackages\obj\Debug\RepositoryPackages.exe
+D:\C# Project\PixBook\Test_UI-20191223T141702Z-001\Test_UI\RepositoryPackages\obj\Debug\RepositoryPackages.pdb
+D:\WorkPlace\ProjectFiles\PixBook\Test_UI\RepositoryPackages\bin\Debug\RepositoryPackages.exe
+D:\WorkPlace\ProjectFiles\PixBook\Test_UI\RepositoryPackages\bin\Debug\RepositoryPackages.pdb
+D:\WorkPlace\ProjectFiles\PixBook\Test_UI\RepositoryPackages\bin\Debug\EntityPackages.exe
+D:\WorkPlace\ProjectFiles\PixBook\Test_UI\RepositoryPackages\bin\Debug\EntityPackages.pdb
+D:\WorkPlace\ProjectFiles\PixBook\Test_UI\RepositoryPackages\obj\Debug\RepositoryPackages.csprojAssemblyReference.cache
+D:\WorkPlace\ProjectFiles\PixBook\Test_UI\RepositoryPackages\obj\Debug\RepositoryPackages.csproj.CopyComplete
+D:\WorkPlace\ProjectFiles\PixBook\Test_UI\RepositoryPackages\obj\Debug\RepositoryPackages.exe
+D:\WorkPlace\ProjectFiles\PixBook\Test_UI\RepositoryPackages\obj\Debug\RepositoryPackages.pdb
